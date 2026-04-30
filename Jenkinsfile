@@ -9,7 +9,7 @@ pipeline {
 
         stage('CHECKOUT') {
             steps {
-                git 'https://github.com/sweedal2005/slackfinal.git'
+                git 'https://github.com/your-username/your-repo.git'
             }
         }
 
